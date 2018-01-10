@@ -4,3 +4,4 @@
 
 
 工具：https://balsamiq.com/
+使用：将 mockup.json 代码导入到软件中打开。
